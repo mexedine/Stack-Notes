@@ -1,4 +1,5 @@
-# 📝 Stack Notes
+# 📝 Stack Notes<img width="1080" height="2340" alt="1000099223" src="https://github.com/user-attachments/assets/f1577127-d2df-46b3-aeb0-39da40b260c8" />
+
 
 A premium, offline-first note-taking app built for people who want their data to stay on their device. 
 
@@ -19,3 +20,11 @@ A premium, offline-first note-taking app built for people who want their data to
 *   Vanilla HTML/CSS/JS (Under 1,000 lines of code)
 *   IndexedDB for local storage
 *   Wrapped in a native Android shell
+
+*   <img width="1080" height="2340" alt="1000099221" src="https://github.com/user-attachments/assets/a75cdbb2-5d91-423c-9581-059e13a41114" />
+
+<img width="1080" height="2340" alt="1000099219" src="https://github.com/user-attachments/assets/5b57e7ae-c13a-413f-b12d-b767e642d373" />
+
+<img width="1080" height="2340" alt="1000099216" src="https://github.com/user-attachments/assets/ee60e53a-f650-4c00-9400-21fdc128ddb7" />
+
+relatively simple to run
