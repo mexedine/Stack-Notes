@@ -27,4 +27,11 @@ A premium, offline-first note-taking app built for people who want their data to
 
 <img width="1080" height="2340" alt="1000099216" src="https://github.com/user-attachments/assets/ee60e53a-f650-4c00-9400-21fdc128ddb7" />
 
-relatively simple to run
+<img width="1080" height="2136" alt="1000099241" src="https://github.com/user-attachments/assets/4d8278e0-fcd5-4aac-8b88-49ff09c07835" />
+
+<img width="1080" height="2136" alt="1000099239" src="https://github.com/user-attachments/assets/18564836-5222-4668-b4e1-bb28a130b3d5" />
+
+<img width="1080" height="2136" alt="1000099237" src="https://github.com/user-attachments/assets/886b967b-ca82-418a-a01d-16c3fec4c2c8" />
+
+
+relatively simple to run! 
