@@ -13,7 +13,7 @@ A premium, offline-first note-taking app built for people who want their data to
 *   **Local-First:** Everything is stored securely in your browser's IndexedDB.
 
 ## 📥 Download
-**(https://github.com/mexedine/Stack-Notes/releases/download/Stack/Stack-Notes.2.apk)**
+[**Download Stack Notes for Android (APK)**](https://github.com/mexedine/Stack-Notes/releases/download/Stack/Stack-Notes.2.apk)
 *(File size: ~8.3MB — completely standalone, no internet required.)*
 
 ## 🛠️ Tech Stack
